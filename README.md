@@ -21,7 +21,7 @@ Veja como é o aplicativo por dentro:
 
 <br>
 <details>
-    <summary>Clique aqui para expandir e ver mais como é por dentro do jogo!</summary>
+    <summary>Clique aqui para expandir e ver mais como é por dentro do jogo.</summary>
   <h3>Ao dar xeque-mate:</h3>
       <img src="https://github.com/user-attachments/assets/d4f0e1d0-20f7-41fd-bf4f-8be0ad04767c" alt="Xeque-mate" height="550px"/>
   <h3>Página de regras:</h3>
